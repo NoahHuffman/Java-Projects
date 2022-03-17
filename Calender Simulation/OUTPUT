@@ -1,0 +1,13 @@
+BELOW ARE THE RESULTS AFTER RUNNING MY PROGRAM
+
+Before removal of appointment 
+Daily[Brush your teeth. Date: 2000/8/13]
+Monthly[Visit grandma. Date: 2003/5/20]
+Onetime[Dentist appointment. Date: 2004/11/2]
+Onetime[Trick or Treat. Date: 2004/10/31]
+Monthly[Dentist appointment. Date: 2004/11/2]
+Onetime[Dentist appointment. Date: 2004/11/2]
+
+After removal of 11/2/2004 
+Monthly[Visit grandma. Date: 2003/5/20]
+Onetime[Trick or Treat. Date: 2004/10/31]
